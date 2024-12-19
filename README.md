@@ -34,12 +34,3 @@ This project is an **AI-Based Personal Assistant Robot** designed to assist user
 - Remote control and monitoring via mobile applications.
 
 Feel free to explore, fork, or contribute to this project. Feedback is always appreciated!
-
-👨‍💻 Explore the project on GitHub: [Insert GitHub Link]  
-🌐 Connect with me for collaboration or inquiries!  
-
-#AI #Robotics #Innovation #PersonalAssistant #EmbeddedSystems #Python  
-
----
-
-Would you like me to help format these descriptions further or assist with creating additional visuals for your GitHub repository or LinkedIn post?
